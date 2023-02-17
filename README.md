@@ -167,3 +167,6 @@ Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+<p>
+You can see that osTicket is up and running!
+</p>
