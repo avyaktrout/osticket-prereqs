@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 First we need to create a Virtual Machine using the Microsoft Azure Portal. A Virtual Machine is a remote computer. We are using a VM in order to protect our physical machine in case something breaks. We're going to be creating a resource group and titling it "osTicket". After that create a VM with 4 vCPUs equipped with Windows 10. 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aqS9IcO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
